@@ -1,5 +1,4 @@
 # KVHGo
-General repository for KVHGo
 
 This project was sold as a commercial product.
 
